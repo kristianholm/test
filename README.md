@@ -6,3 +6,8 @@ My journey into the world of git and GitHub, where I will try to answer the foll
 2. What can I put into a public git repositorie?
 3. How should I incorporate it into my daily routines?
 
+To try to answer these questions in no perticular order:
+
+I should learn to use a distributed versioning system ahead of the time I really need
+to use it, which means that using it as much as possible will give me a lot of
+practice.
