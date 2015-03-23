@@ -11,3 +11,5 @@ To try to answer these questions in no perticular order:
 I should learn to use a distributed versioning system ahead of the time I really need
 to use it, which means that using it as much as possible will give me a lot of
 practice.
+
+What kind of tools should I use in tandem with git and github?
